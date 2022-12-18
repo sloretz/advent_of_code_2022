@@ -1,0 +1,4 @@
+cc_binary(
+    name = 'calorie_counter',
+    srcs = ['calorie_counter.cc'],
+)
