@@ -1,0 +1,4 @@
+cc_binary(
+    name = "rock_paper_scissors",
+    srcs = ['rock_paper_scissors.cc'],
+)
